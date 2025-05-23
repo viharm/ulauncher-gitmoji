@@ -584,6 +584,14 @@
       "description": "Add or update code related to validation.",
       "name": "safety-vest",
       "semver": null
+    },
+    {
+      "emoji": "✈️",
+      "entity": "&#9992;&#65039;",
+      "code": ":airplane:",
+      "description": "Improve offline support.",
+      "name": "airplane",
+      "semver": null
     }
   ]
 }
